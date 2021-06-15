@@ -1,0 +1,4 @@
+1.get the the input for test case number
+2.check the test case condition [ "$Testcase" -gt 1001 ] || [ "$Testcase" -lt 0 ]
+3.Read the salary input and feed into a file
+4.read the file content and perform the salary calculations

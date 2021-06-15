@@ -1,0 +1,7 @@
+Read the input for no of test cases
+check the condition for the test cases [ "$Testcase" -gt 51 ] || [ "$Testcase" -lt 0 ]
+Read the input of TIME and STRING and input into a file
+Break the string part alone into new file
+check if cookie or milk is present
+check for the occurance of milk after cookie
+Print YES or no based on the condition
